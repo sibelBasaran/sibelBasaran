@@ -1,4 +1,4 @@
- [![MasterHead](https://www.yandex.com.tr/gorsel/search?from=tabbar&img_url=https%3A%2F%2Fwww.vedfolnir.com%2Fimages%2F2014%2F08%2FJava-Logo-Design-Black-Orange-Blue-Coffee-Vedfolnir.png&lr=11509&pos=9&rpt=simage&text=java)
+
 <h1 align="center">Hi 👋, I'm Sibel Basaran</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
